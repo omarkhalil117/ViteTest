@@ -27,6 +27,12 @@ function App() {
         <div>
           Replace Update with div
         </div>
+        <h1>
+          Try conf
+        </h1>
+        <h2>
+          new Text
+        </h2>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
