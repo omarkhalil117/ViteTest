@@ -21,9 +21,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+        <div>New Text</div>
         <h1>Add Extra Text</h1>
         <div>
           Replace Update with div
